@@ -9,7 +9,7 @@ Welcome to my custom App Store for Runtipi 🎉
 This repository contains several applications you can install directly via Runtipi.
 
 📦 Available Applications
-📒 Papra – Document management platform tool.
+📒 Papra – https://github.com/papra-hq/papra Document management platform tool.
 
 🚀 How to use this store
 Open the Runtipi interface.
