@@ -1,0 +1,24 @@
+{
+  "name": "chronoframe",
+  "id": "chronoframe",
+  "available": true,
+  "short_desc": "Juste un album photo.",
+  "author": "traefik",
+  "port": 3000,
+  "categories": [
+    "utilities"
+  ],
+  "description": "Juste un album photo.",
+  "tipi_version": 2,
+  "version": "v0.14.1",
+  "source": "https://github.com/HoshinoSuzumi/chronoframe",
+  "exposable": true,
+  "supported_architectures": [
+    "arm64",
+    "amd64"
+  ],
+  "created_at": 1745082405284,
+  "updated_at": 1745674974072,
+  "dynamic_config": true,
+  "form_fields": []
+}

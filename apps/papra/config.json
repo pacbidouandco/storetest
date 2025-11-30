@@ -1,0 +1,24 @@
+{
+  "name": "papra",
+  "id": "papra",
+  "available": true,
+  "short_desc": "Papra is a minimalistic document management and archiving platform.",
+  "author": "Corentin",
+  "port": 1221,
+  "categories": [
+    "utilities"
+  ],
+  "description": "Papra is a minimalistic document management and archiving platform.",
+  "tipi_version": 2,
+  "version": "v25.10.2",
+  "source": "https://github.com/papra-hq/papra",
+  "exposable": true,
+  "supported_architectures": [
+    "arm64",
+    "amd64"
+  ],
+  "created_at": 1745082405284,
+  "updated_at": 1745674974072,
+  "dynamic_config": true,
+  "form_fields": []
+}
