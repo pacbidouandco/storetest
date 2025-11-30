@@ -1,15 +1,22 @@
-runtipi-appstore
-This is the repository for my Custom Tipi App Store.
+Lien du dépôt à copier / Repository link to copy
 
-Usage
-log in to your tipi instance and go to Settings -> App Stores.
-Add App Store
-Choose a Appstore name ( if you are using my user-config use falkheiland )
-Set Appstore URL to https://github.com/falkheiland/runtipi-appstore/tree/prod
-go to App Stores -> Select an AppStore and mark the added store to get to my apps
-Apps
-Name	Description	Category	In maintenance	Port
-2FAuth	A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes.	2FA	yes	9011
+🇫🇷 Copiez ce lien pour ajouter le store dans Runtipi :
+
+🇬🇧 Copy this link to add the store in Runtipi: https://github.com/pacbidouandco/storetest
+
+🇬🇧 English
+Welcome to my custom App Store for Runtipi 🎉
+This repository contains several applications you can install directly via Runtipi.
+
+📦 Available Applications
+📒 Papra – Document management platform tool.
+
+🚀 How to use this store
+Open the Runtipi interface.
+Go to Settings → Appstore.
+Click Add a store.
+Paste the repository URL above.
+The applications will appear directly in the Runtipi store 🎉
 
 ## Documentation
 
