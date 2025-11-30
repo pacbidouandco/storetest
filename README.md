@@ -11,6 +11,8 @@ This repository contains several applications you can install directly via Runti
 📦 Available Applications
 📒 Papra – https://github.com/papra-hq/papra Document management platform tool.
 
+  Demo : https://demo.papra.app/organizations/org_wEyksR1he09cX9Qg6i8ENgr1
+
 🚀 How to use this store
 Open the Runtipi interface.
 Go to Settings → Appstore.
