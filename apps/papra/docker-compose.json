@@ -1,0 +1,49 @@
+{
+"schemaVersion": 2,
+"services": [
+  {
+    "name": "papra",
+    "isMain": true,
+    "image": "ghcr.io/papra-hq/papra:latest",
+    "environment": [
+      {
+         "key": "TRUSTED_ORIGINS",
+         "value": "http://192.168.1.26:1221"
+       },
+      {
+        "key": "APP_BASE_URL",
+         "value": "http://192.168.1.26:1221"
+      },      
+      {
+        "key": "CLIENT_BASE_URL",
+        "value": "http://192.168.1.26:1221"
+      },
+      {
+        "key": "SERVER_CORS_ORIGINS",
+        "value": "http://192.168.1.26:1221"
+      },
+      {
+        "key": "DOCUMENTS_DELETED_DOCUMENTS_RETENTION_DAYS",
+        "value": "2"
+      },
+      {
+        "key": "DOCUMENT_STORAGE_MAX_UPLOAD_SIZE",
+        "value": "0"
+      },
+      {
+        "key": "INGESTION_FOLDER_IS_ENABLED",
+        "value": "false"
+      }
+    ],
+    "internalPort": 1221,
+    "volumes": [
+      {
+        "hostPath": "/root/runtipi/app-data/storetest/papra/data/papra",
+        "readOnly": false,
+        "shared": false,
+        "private": false
+      }
+    ]
+  }
+]
+}
